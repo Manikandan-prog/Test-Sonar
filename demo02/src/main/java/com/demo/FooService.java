@@ -8,7 +8,7 @@ public class FooService {
 
 	private static Logger logger = LogManager.getLogger(FooService.class);
 
-		    public static void main(String args[])
+		    public static void main(String[] args)
 		    {
 		        logger.info("This is info");
 		        logger.warn("This is Warning");
