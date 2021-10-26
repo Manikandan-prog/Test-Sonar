@@ -24,7 +24,7 @@ public class FooServiceMethod {
        
 
 
-        assertThat(logCaptor.getInfoLogs().contains(expectedInfoMessage));
+        
 
        
 
